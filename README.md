@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Taha
+### Taha Jalilian
 #### Python Intern
 I really enjoy learning programming languages and their frameworks. I'm currently learning Python and want to be a full stack developer.
 
-Skills: Python / HTML / CSS
+Python / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
