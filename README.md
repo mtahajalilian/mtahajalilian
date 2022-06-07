@@ -11,4 +11,4 @@ Twitter</a> |
    href="https://www.instagram.com/tahajlilin/">
 Instagram</a> |
 <a class="email-button"
-   href="motahajalilin@gmail.com">Email</a>
+   mailto="motahajalilin@gmail.com">Email</a>
